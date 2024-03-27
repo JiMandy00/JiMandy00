@@ -13,7 +13,7 @@
 - Gmail : wkdghk24@gmail.com
 
 ### ⚒️Skills
-<img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/> <img src="https://img.shields.io/badge/C#-512BD4?style=flat-square&logo=C#&logoColor=white"/> <img src="https://img.shields.io/badge/java-3776AB?style=flat-square&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/> <img src="https://img.shields.io/badge/csharp-512BD4?style=flat-square&logo=csharp&logoColor=white"/> <img src="https://img.shields.io/badge/photon-004480?style=flat-square&logo=photon&logoColor=white"/> <img src="https://img.shields.io/badge/java-F7DF1E?style=flat-square&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 
 
 
