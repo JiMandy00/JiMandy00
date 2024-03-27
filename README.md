@@ -7,7 +7,9 @@
 
 ### 💚SNS
 - Tstory : https://dongsik-blog.tistory.com/
-- Instagram : <a href="https://www.instagram.com/jamminlee1690"> <img src="http://img.shields.io/badge/-Instagram-FFFFFF?style=flat&logo=Instagram&link=https://instagram.com/alpox.dev/" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
+<a href="https://dongsik-blog.tistory.com/"> <img src="http://img.shields.io/badge/-tistory-000000?style=flat&logo=Instagram" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
+
+<a href="https://www.instagram.com/jamminlee1690"> <img src="http://img.shields.io/badge/-Instagram-FFFFFF?style=flat&logo=Instagram&link=https://instagram.com/alpox.dev/" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
 
 ### 💙contact
 - Gmail : wkdghk24@gmail.com
