@@ -13,7 +13,8 @@
 - Gmail : wkdghk24@gmail.com
 
 ### ⚒️Skills
-<img src="https://img.shields.io/badge/Unity-25A162?style=flat-square&logo=Unity&logoColor=white"/>
+<img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/>
+<img src="https://img.shields.io/badge/Photon-#004480?style=flat-square&logo=Photon&logoColor=white"/>, 
 
 ### 👾Projects
 | Project  | Date       | Members      | Roles    | Platform | Dev.env   | URL                |
