@@ -6,8 +6,7 @@
 - 멋쟁이 사자처럼 백엔드스쿨 2기(2022.09 ~ 2023.02)
 
 ### 💚SNS
-<a href="https://dongsik-blog.tistory.com/"> <img src="http://img.shields.io/badge/-tistory-000000?style=flat&logo=tistory" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a> <br>
-<a href="https://www.instagram.com/jamminlee1690"> <img src="http://img.shields.io/badge/-Instagram-FFFFFF?style=flat&logo=Instagram&link=https://instagram.com/alpox.dev/" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
+<a href="https://dongsik-blog.tistory.com/"> <img src="http://img.shields.io/badge/-tistory-000000?style=flat&logo=tistory" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a> <a href="https://www.instagram.com/jamminlee1690"> <img src="http://img.shields.io/badge/-Instagram-FFFFFF?style=flat&logo=Instagram&link=https://instagram.com/alpox.dev/" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
 
 ### 💙contact
 - Gmail : wkdghk24@gmail.com
