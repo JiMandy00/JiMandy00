@@ -1,4 +1,4 @@
-## 안녕하세요. 유니티 개발자 변지환입니다👾 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJiMandy00&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+## 👾안녕하세요. 유니티 개발자 변지환입니다 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJiMandy00&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wkdghk24)](https://solved.ac/wkdghk24/)
 
 ### 💛Education
@@ -23,7 +23,7 @@ Coding Test : <img src="https://img.shields.io/badge/python-3776AB?style=flat-sq
 
 ### 👾Projects
 | Project  | Date(YYYY.MM.DD) | Members | Roles    | Platform | Dev.env   | URL |
-|----------|------------------|---------|----------|----------|-----------|------|
+|----------|------------------|----------------|----------|----------|-----------|------------|
 |  베어머더러  | 2024년 02월 ~ (출시 준비중) | Unity(2명), 서버(2명), AI(2명) | Player, NPC, Unity AI, Place, Game Server(Socket), Server & AI Http and Socket Connection | Android, PC | Unity, C#, Photon | 업로드 예정 |
 |  우리가족섬  | 2023년 10월 10일 ~ 2023년 12월 10일(62일) | Unity(2명), 기획(1명), 모델링(1명), 서버(1명), AI(2명) | Player, UI, Photon Chat, Chat bot, Server & AI HTTP Connection | Android, PC | Unity, C#, Photon | [링크](https://www.youtube.com/watch?v=JE8ox4u_Wyo) |
 |  크노소스 궁전  | 2023년 09월 01일 ~ 2023년 10월 03일(32일) | Unity(2명), 기획(3명), 모델링(2명) | Player, UI, Object Interaction | PC, Oculus | Unity, C# | [링크](https://www.youtube.com/watch?v=_JHLwmqOvVM) |
