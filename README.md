@@ -1,5 +1,4 @@
-## 안녕하세요. 유니티 개발자 변지환입니다👾 Hi I'm Jihwan👋 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJiMandy00&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
-
+## 안녕하세요. 유니티 개발자 변지환입니다👾 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJiMandy00&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 
 ### 💛Education
 - 메타버스 아카데미 2기(2023년 07월 ~ 2023년 12월)
@@ -15,8 +14,9 @@
 ### ⚒️Skills
 <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/> <img src="https://img.shields.io/badge/csharp-512BD4?style=flat-square&logo=csharp&logoColor=white"/> <img src="https://img.shields.io/badge/photon-004480?style=flat-square&logo=photon&logoColor=white"/> <img src="https://img.shields.io/badge/java-F7DF1E?style=flat-square&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 
-
-
+### 🏆Awards
+- 우리가족섬(2023년 12월 10일) 성과공유회 과학기술정보통신부 장관상
+- 한바탕(2023년 09월 01일) 해커톤 3등 수상
 
 ### 👾Projects
 | Project  | Date       | Members      | Roles    | Platform | Dev.env   | URL                |
@@ -27,11 +27,10 @@
 |  한바탕  | 2023년 08월 30일 ~ 2023년 09월 01일(3일) | Unity(3명), 기획(1명), 모델링(1명), 데이터 사이언스(1명), AI(2명) | Player, UI | PC | Unity, C# | 업로드 예정 |
 |  OverCooked02(모작)  | 023년 08월 01일 ~ 2023년 08월 28일(28일) | Unity(3명)) | UI, Photon, Assets | PC | Unity, C#, Photon | 업로드 예정 |
 
-### 🏆Awards
-- 우리가족섬(2023년 12월 10일) 성과공유회 과학기술정보통신부 장관상
-- 한바탕(2023년 09월 01일) 해커톤 3등 수상
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jangseoyun&langs_count=8&layout=compact&theme=dark)](https://github.com/jogilsang/jogilsang)
+
+<!-- 무슨 코드 많이 썼는지 작성해둔 코드 -->
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jangseoyun&langs_count=8&layout=compact&theme=dark)](https://github.com/jogilsang/jogilsang) -->
 
 
 
