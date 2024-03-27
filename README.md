@@ -1,18 +1,18 @@
 ## 안녕하세요. 유니티 개발자 변지환입니다👾
 ## Hi I'm Jihwan👋
-<br>
-<br>
+
+
 ###💛Education
 - 메타버스 아카데미 2기(2023년 07월 ~ 2023년 12월)
 - 멋쟁이 사자처럼 백엔드스쿨 2기(2022.09 ~ 2023.02)
-<br>
+
 ###💚SNS
 - Tstory : https://dongsik-blog.tistory.com/
 - Instagram : jamminlee1690
-<br>
+
 ###💙contact
 - Gmail : wkdghk24@gmail.com
-<br>
+
 ###👾Projects
 | Project  | Date       | Members      | Roles    | Platform | Dev.env   | URL                |
 |----------|------------|-----------|----------|----------|-----------|--------------------|
@@ -21,7 +21,9 @@
 |  크노소스 궁전의 비밀  | 2023년 09월 01일 ~ 2023년 10월 03일(32일) | Unity(2명), 기획(3명), 모델링(2명) | Player, UI, Object Interaction | PC, Oculus | Unity, C# | https://www.youtube.com/watch?v=_JHLwmqOvVM |
 |  한바탕  | 2023년 08월 30일 ~ 2023년 09월 01일(3일) | Unity(3명), 기획(1명), 모델링(1명), 데이터 사이언스(1명), AI(2명) | Player, UI | PC | Unity, C# | 업로드 예정 |
 |  OverCooked02(모작)  | 023년 08월 01일 ~ 2023년 08월 28일(28일) | Unity(3명)) | UI, Photon, Assets | PC | Unity, C#, Photon | 업로드 예정 |
-<br>
+
+
+
 <!--
 **JiMandy00/JiMandy00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
