@@ -1,6 +1,6 @@
-## 안녕하세요. 유니티 개발자 변지환입니다👾
-## Hi I'm Jihwan👋
+## 안녕하세요. 유니티 개발자 변지환입니다👾 Hi I'm Jihwan👋
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJiMandy00&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jangseoyun&langs_count=8&layout=compact&theme=dark)](https://github.com/jogilsang/jogilsang)
 
 ### 💛Education
 - 메타버스 아카데미 2기(2023년 07월 ~ 2023년 12월)
@@ -12,6 +12,9 @@
 
 ### 💙contact
 - Gmail : wkdghk24@gmail.com
+
+### ⚒️Skills
+<svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Unity</title><path d="m12.9288 4.2939 3.7997 2.1929c.1366.077.1415.2905 0 .3675l-4.515 2.6076a.4192.4192 0 0 1-.4246 0L7.274 6.8543c-.139-.0745-.1415-.293 0-.3675l3.7972-2.193V0L1.3758 5.5977V16.793l3.7177-2.1456v-4.3858c-.0025-.1565.1813-.2682.318-.1838l4.5148 2.6076a.4252.4252 0 0 1 .2136.3676v5.2127c.0025.1565-.1813.2682-.3179.1838l-3.7996-2.1929-3.7178 2.1457L12 24l9.6954-5.5977-3.7178-2.1457-3.7996 2.1929c-.1341.082-.3229-.0248-.3179-.1838V13.053c0-.1565.087-.2956.2136-.3676l4.5149-2.6076c.134-.082.3228.0224.3179.1838v4.3858l3.7177 2.1456V5.5977L12.9288 0Z"/></svg>
 
 ### 👾Projects
 | Project  | Date       | Members      | Roles    | Platform | Dev.env   | URL                |
@@ -31,7 +34,7 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jangseoyun&langs_count=8&layout=compact&theme=dark)](https://github.com/jogilsang/jogilsang)
+
 
 
 
