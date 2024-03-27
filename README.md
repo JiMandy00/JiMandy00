@@ -9,7 +9,8 @@
 <a href="https://dongsik-blog.tistory.com/"> <img src="http://img.shields.io/badge/-tistory-000000?style=flat&logo=tistory" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a> <a href="https://www.instagram.com/jamminlee1690"> <img src="http://img.shields.io/badge/-Instagram-FFFFFF?style=flat&logo=Instagram&link=https://instagram.com/alpox.dev/" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
 
 ### 💙contact
-<a href=mailto:wkdghk24@gmail.com"> <img src="http://img.shields.io/badge/gmail-#EA4335?style=flat&logo=gmail" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
+<a href="mailto:wkdghk24@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+
 
 ### ⚒️Skills
 Game : <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/> <img src="https://img.shields.io/badge/csharp-512BD4?style=flat-square&logo=csharp&logoColor=white"/> <img src="https://img.shields.io/badge/photon-004480?style=flat-square&logo=photon&logoColor=white"/> <img src="https://img.shields.io/badge/oculus-1C1E20?style=flat-square&logo=oculus&logoColor=white"/> <br>
