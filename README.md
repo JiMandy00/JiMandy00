@@ -13,17 +13,14 @@
 - Gmail : wkdghk24@gmail.com
 
 👾Projects
-| Project  | Date       | Role      | Genre    | Platform | Dev.env   | URL                |
+| Project  | Date       | Members      | Roles    | Platform | Dev.env   | URL                |
 |----------|------------|-----------|----------|----------|-----------|--------------------|
-| 우리가족섬 | 2023년 10월 10일 ~ 2023년 12월 10일(62일) | Unity(2명), 기획(1명), 모델링(1명), 서버(1명), AI(2명) | Player, UI, Photon Chat, Chat bot, Server & AI HTTP Connection | Android, PC | Unity, C#, Photon | [http://example.com](https://www.youtube.com/watch?v=vKTtqw60PuQ) |
+|  베어머더러  | 2024년 02월 ~ (출시 준비중) | Unity(2명), 서버(2명), AI(2명) | Player, NPC, Unity AI, Place, Game Server(Socket), Server & AI Http and Socket Connection | Android, PC | Unity, C#, Photon | 업로드 예정 |
+|  우리가족섬  | 2023년 10월 10일 ~ 2023년 12월 10일(62일) | Unity(2명), 기획(1명), 모델링(1명), 서버(1명), AI(2명) | Player, UI, Photon Chat, Chat bot, Server & AI HTTP Connection | Android, PC | Unity, C#, Photon | https://www.youtube.com/watch?v=JE8ox4u_Wyo |
+|  크노소스 궁전의 비밀  | 2023년 09월 01일 ~ 2023년 10월 03일(32일) | Unity(2명), 기획(3명), 모델링(2명) | Player, UI, Object Interaction | PC, Oculus | Unity, C# | https://www.youtube.com/watch?v=_JHLwmqOvVM |
+|  한바탕  | 2023년 08월 30일 ~ 2023년 09월 01일(3일) | Unity(3명), 기획(1명), 모델링(1명), 데이터 사이언스(1명), AI(2명) | Player, UI | PC | Unity, C# | 업로드 예정 |
+|  OverCooked02(모작)  | 023년 08월 01일 ~ 2023년 08월 28일(28일) | Unity(3명)) | UI, Photon, Assets | PC | Unity, C#, Photon | 업로드 예정 |
 
-
-
-|Project | Date | Role | Genre | Platform | Dev.env | URL |
-|--------|------|------|-------|----------|---------|----|
-| 2024.02 ~  | 123     | 123     | 123     | 123      |
-| 2023.10 ~ 2023.12  | 123     | 123     | 123     | 123      |
-| 2023.09. ~ 2023.10.01  | 123     | 123     | 123     | 123      |
 <!--
 **JiMandy00/JiMandy00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
