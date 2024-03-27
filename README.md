@@ -7,14 +7,15 @@
 
 ### 💚SNS
 - Tstory : https://dongsik-blog.tistory.com/
-- Instagram : jamminlee1690
+- Instagram : <a href="https://www.instagram.com/jamminlee1690"> <img src="http://img.shields.io/badge/-Instagram-FFFFFF?style=flat&logo=Instagram&link=https://instagram.com/alpox.dev/" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
 
 ### 💙contact
 - Gmail : wkdghk24@gmail.com
 
 ### ⚒️Skills
 Game : <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/> <img src="https://img.shields.io/badge/csharp-512BD4?style=flat-square&logo=csharp&logoColor=white"/> <img src="https://img.shields.io/badge/photon-004480?style=flat-square&logo=photon&logoColor=white"/> <img src="https://img.shields.io/badge/oculus-1C1E20?style=flat-square&logo=oculus&logoColor=white"/> <br>
-Server : <img src="https://img.shields.io/badge/java-F7DF1E?style=flat-square&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+Server : <img src="https://img.shields.io/badge/java-F7DF1E?style=flat-square&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/> 
+Coding Test : <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 
 ### 🏆Awards
 - 우리가족섬(2023년 12월 10일) 성과공유회 과학기술정보통신부 장관상
