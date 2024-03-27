@@ -1,11 +1,29 @@
+### 안녕하세요. 유니티 개발자 변지환입니다👾
 ### Hi I'm Jihwan👋
 
-I'm studying : 멋쟁이 사자처럼 백엔드스쿨 2기
+💛Education
+- 메타버스 아카데미 2기(2023년 07월 ~ 2023년 12월)
+- 멋쟁이 사자처럼 백엔드스쿨 2기(2022.09 ~ 2023.02)
 
-velog : https://velog.io/@wkdghk24
+💚SNS
+- Tstory : https://dongsik-blog.tistory.com/
+- Instagram : jamminlee1690
 
-Please contact to me : wkdghk24@gmail.com
+💙contact
+- Gmail : wkdghk24@gmail.com
 
+👾Projects
+| Project  | Date       | Role      | Genre    | Platform | Dev.env   | URL                |
+|----------|------------|-----------|----------|----------|-----------|--------------------|
+| 우리가족섬 | 2023년 10월 10일 ~ 2023년 12월 10일(62일) | Unity(2명), 기획(1명), 모델링(1명), 서버(1명), AI(2명) | Player, UI, Photon Chat, Chat bot, Server & AI HTTP Connection | Android, PC | Unity, C#, Photon | [http://example.com](https://www.youtube.com/watch?v=vKTtqw60PuQ) |
+
+
+
+|Project | Date | Role | Genre | Platform | Dev.env | URL |
+|--------|------|------|-------|----------|---------|----|
+| 2024.02 ~  | 123     | 123     | 123     | 123      |
+| 2023.10 ~ 2023.12  | 123     | 123     | 123     | 123      |
+| 2023.09. ~ 2023.10.01  | 123     | 123     | 123     | 123      |
 <!--
 **JiMandy00/JiMandy00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
