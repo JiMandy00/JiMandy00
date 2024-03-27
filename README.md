@@ -13,8 +13,7 @@
 - Gmail : wkdghk24@gmail.com
 
 ### ⚒️Skills
-<img src="https://img.shields.io/badge/Unity-#FFFFFF?style=flat-square&logo=Unity&logoColor=Black"/>
-출처: https://hongssup.tistory.com/243 [Outgoing Introvert:티스토리]
+<img src="https://img.shields.io/badge/unity-FFFFFF?style=flat-square&logo=Unity&logoColor=Black"/>
 
 ### 👾Projects
 | Project  | Date       | Members      | Roles    | Platform | Dev.env   | URL                |
