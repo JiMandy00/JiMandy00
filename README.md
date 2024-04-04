@@ -1,5 +1,5 @@
 ## 👾안녕하세요. 유니티 개발자 변지환입니다 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJiMandy00&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wkdghk24)](https://solved.ac/wkdghk24/)
+<!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wkdghk24)](https://solved.ac/wkdghk24/) -->
 
 ### 💛Education
 - 메타버스 아카데미 2기(2023년 07월 ~ 2023년 12월)
